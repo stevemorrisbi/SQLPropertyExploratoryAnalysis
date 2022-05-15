@@ -1,5 +1,5 @@
 # SQL Property Project - Exploratory Analysis
-### Using the Price Paid Data (PPD) from HM Land Registry for 2021 to do an exploratory analysis on property sale prices in Caerphilly and Cardiff.
+### Using the Price Paid Data (PPD) from HM Land Registry for 2021 to do an exploratory analysis of property sales in Caerphilly and Cardiff.
 
 ![property_image](https://user-images.githubusercontent.com/99413257/168491480-6e9c6837-33b5-4740-907a-b1881d41daeb.jpg)
 
