@@ -3,7 +3,9 @@
 
 Include a propety photo
 
-### Include list of functions used in the project are - 
+### A commented SQL script can be found in this repository.
+
+### This project demonstrates use cases for -
 ### CAST,COUNT, GROUP BY, ORDER BY, LIKE, CTE's, HAVING, AVG, BETWEEN, CASE, UNION, IS NOT NULL, MIN, MAX and LAG.
 
 Include what the analysis discovered. 
