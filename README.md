@@ -8,4 +8,14 @@
 ### This project demonstrates use cases for -
 ### CAST,COUNT, GROUP BY, ORDER BY, LIKE, CTE's, HAVING, AVG, BETWEEN, CASE, UNION, IS NOT NULL, MIN, MAX and LAG.
 
-(Analysis write-up in development)
+### (Analysis write-up in development)
+
+# Exploring the data using DAX logic inside Power BI
+
+## Creation of various measures to filter 2021 property sales data
+
+## Utilising DAX to segment property prices into bins
+
+## Scenario testing using what if parameters
+
+
